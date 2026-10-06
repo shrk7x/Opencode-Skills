@@ -1,0 +1,4 @@
+interface:
+  display_name: "本地前端测试"
+  short_description: "在本地工作区启动并验证 EpubMaster 前端"
+  default_prompt: "Use $frontend-local-test to test the current frontend PR locally."
